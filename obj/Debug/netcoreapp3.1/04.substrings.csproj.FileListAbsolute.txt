@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\01.stringTutorial\04.substrings\bin\Debug\netcoreapp3.1\04.substrings.exe
+C:\Users\Bla\source\repos\01.stringTutorial\04.substrings\bin\Debug\netcoreapp3.1\04.substrings.deps.json
+C:\Users\Bla\source\repos\01.stringTutorial\04.substrings\bin\Debug\netcoreapp3.1\04.substrings.runtimeconfig.json
+C:\Users\Bla\source\repos\01.stringTutorial\04.substrings\bin\Debug\netcoreapp3.1\04.substrings.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.stringTutorial\04.substrings\bin\Debug\netcoreapp3.1\04.substrings.dll
+C:\Users\Bla\source\repos\01.stringTutorial\04.substrings\bin\Debug\netcoreapp3.1\04.substrings.pdb
+C:\Users\Bla\source\repos\01.stringTutorial\04.substrings\obj\Debug\netcoreapp3.1\04.substrings.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\01.stringTutorial\04.substrings\obj\Debug\netcoreapp3.1\04.substrings.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.stringTutorial\04.substrings\obj\Debug\netcoreapp3.1\04.substrings.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.stringTutorial\04.substrings\obj\Debug\netcoreapp3.1\04.substrings.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.stringTutorial\04.substrings\obj\Debug\netcoreapp3.1\04.substrings.dll
+C:\Users\Bla\source\repos\01.stringTutorial\04.substrings\obj\Debug\netcoreapp3.1\04.substrings.pdb
+C:\Users\Bla\source\repos\01.stringTutorial\04.substrings\obj\Debug\netcoreapp3.1\04.substrings.genruntimeconfig.cache
