@@ -19,7 +19,9 @@ namespace _04.substrings
             }
             foreach (var item in numbers) //we iterate here again
             {
-                Console.WriteLine(numbers[item]);
+                // Console.WriteLine(numbers[item]); this does not print number 1//not correct 
+                Console.WriteLine(item); //is correct 
+                // not correct is to write console.WriteLine(numbers[item]) !!
             }
             
               
